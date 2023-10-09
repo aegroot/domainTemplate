@@ -1,0 +1,9 @@
+input:
+
+classname c1
+classname c2
+
+byte whoKnowsWho
+byte relationOptions
+    2 partitions of 4-ish bits
+    for c1 and c2 respectively

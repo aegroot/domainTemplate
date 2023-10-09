@@ -1,0 +1,20 @@
+input:
+classname:String
+checkFor: forbidden names/chars
+
+fieldTemplates(req : args...)
+
+byte function_options
+
+end class document: check all for errors
+
+after end?
+
+from classRelationTemplate:
+
+inheritance/implementation?
+pair keyword with name
+check implemented abstract methods
+
+
+

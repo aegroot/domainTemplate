@@ -1,0 +1,8 @@
+input:
+
+String name
+    checkFor:forbidden_names/_chars
+type type
+byte access_options
+byte modifier_options
+byte function_options

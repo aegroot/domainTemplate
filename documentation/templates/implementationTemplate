@@ -1,0 +1,9 @@
+in class definition:add interface identifier
+
+
+child-classes:
+    if abstract
+    repeat for direct child class(es)
+        until no children an anymore
+    else
+    implicit check if methods implemented
